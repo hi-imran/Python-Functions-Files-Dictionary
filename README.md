@@ -13,3 +13,4 @@ of the textbook “Fundamentals of Python Programming,” which is the accompany
 - Dictionaries and Dictionary Accumulation
 - Functions and Tuples
 - More Iteration and Advanced Functions
+- Sorting
